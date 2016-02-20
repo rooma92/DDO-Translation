@@ -2,6 +2,7 @@
   <message>
     <key>sys_announce_controllernotconnect</key>
     <original xml:space="preserve">&lt;PFWD 0&gt;が接続されていません</original>
+    <translation xml:space="preserve">&lt;PFWD 0&gt;controller not connected</translation>
   </message>
   <message>
     <key>sys_announce_check_strage</key>
@@ -14,6 +15,10 @@
 ゲームを開始するためには
 &lt;VAL 0&gt; 以上の空き容量が必要です
 ゲームを終了して空き容量を確保してください</original>
+<translation xml:space="preserve">Free space on the hard disk drive is missing
+In order to start the game
+You must have free space of more than &lt;VAL 0&gt;
+Please to secure the free space to end the game</translation>
   </message>
   <message>
     <key>sys_announce_trophy</key>
@@ -23,18 +28,26 @@
     <key>sys_announce_newsave</key>
     <original xml:space="preserve">新規にセーブデータを作成しています
 PCの電源を切らないでください</original>
+<translation xml:space="preserve">creating new save data
+Please do not turn off the power</translation>
   </message>
   <message>
     <key>sys_announce_savedata_broken</key>
     <original xml:space="preserve">セーブデータが破損しています
 セーブデータを破棄して
 新規に作成しますか？</original>
+<translation xml:space="preserve">Save data have been corrupted
+Discard the save data
+Do you want to create new?</translation>
   </message>
   <message>
     <key>sys_announce_ps3_loadfail</key>
     <original xml:space="preserve">セーブデータをロードできませんでした
 セーブデータを破棄して
 新規に作成しますか？</original>
+<translation xml:space="preserve">Could not load the save data
+Discard the save data
+Do you want to create new </translation>
   </message>
   <message>
     <key>sys_announce_notuse_anothersave</key>
@@ -42,15 +55,22 @@ PCの電源を切らないでください</original>
 使用することはできません
 セーブデータを破棄して
 新規に作成します</original>
+<translation xml:space="preserve">The save data is for other user
+It can not be used
+Discard the save data
+Create a new one</translation>
   </message>
   <message>
     <key>sys_announce_goto_launcher</key>
     <original xml:space="preserve">セーブデータを準備できませんでした
 ランチャーへ戻ります</original>
+    <translation xml:space="preserve">not able to prepare the save data
+return to the launcher</translation>
   </message>
   <message>
     <key>sys_announce_failedsave</key>
     <original xml:space="preserve">セーブデータの保存に失敗しました</original>
+    <translation xml:space="preserve">failed to save the save data</translation>
   </message>
   <message>
     <key>sys_announce_checkingsave</key>
@@ -64,16 +84,23 @@ Please do not turn off your PC</translation>
     <original xml:space="preserve">ハードディスクドライブ容量の
 チェックに失敗しました
 ランチャーへ戻ります</original>
+<translation xml:space="preserve">hard disk drive space
+Check failed
+return to the launcher</translation>
   </message>
   <message>
     <key>sys_announce_trophy_fail</key>
     <original xml:space="preserve">トロフィーデータの準備に失敗しました
 ランチャーへ戻ります</original>
+<translation xml:space="preserve">failed to prepare the trophy data
+return to the launcher</translation>
   </message>
   <message>
     <key>sys_announce_firstoption</key>
     <original xml:space="preserve">操作デバイスを選択してください
 ※この項目はオプションで変更できます</original>
+<translation xml:space="preserve">Please select the operation device
+※ This item can be changed in the options</translation>
   </message>
   <message>
     <key>sys_announce_choice_pad</key>
@@ -82,16 +109,21 @@ Please do not turn off your PC</translation>
   <message>
     <key>sys_announce_choice_mouse</key>
     <original xml:space="preserve">マウス・キーボード</original>
+    <translation xml:space="preserve">Mouse-Keyboard</translation>
   </message>
   <message>
     <key>sys_announce_calibration</key>
     <original xml:space="preserve">&lt;PFWD 0&gt;のボタン配置を初期化しました
 ボタン配置の確認後
 必要であれば配置変更を行ってください</original>
+<translation xml:space="preserve">&lt;PFWD 0&gt;The button arrangement have been initialized
+After confirmation of the button arrangement
+Please perform the layout change, if necessary</translation>
   </message>
   <message>
     <key>sys_announce_saving</key>
     <original xml:space="preserve">設定を保存します</original>
+    <translation xml:space="preserve">save the settings</translation>
   </message>
   <message>
     <key>sys_announce_exit</key>
