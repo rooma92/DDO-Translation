@@ -252,6 +252,7 @@
   <message>
     <key>syslog_quest_order</key>
     <original xml:space="preserve">＜&lt;NAME QUEST&gt;＞が受注待ちになりました</original>
+    <translation xml:space="preserve">＜&lt;NAME QUEST&gt;＞new orders waiting</translation>
   </message>
   <message>
     <key>syslog_quest_discontinue</key>
@@ -262,38 +263,48 @@
     <key>syslog_reward_box_limit_notion</key>
     <original xml:space="preserve">報酬ボックスの容量が少なくなっています
 古い報酬を失う可能性があります</original>
+    <translation xml:space="preserve">The capacity of the reward box is low
+You may lose the old reward</translation>
   </message>
   <message>
     <key>syslog_quest_update</key>
     <original xml:space="preserve">&lt;NAME QUEST&gt;：≪小目的用テキスト≫</original>
+    <translation xml:space="preserve">&lt;NAME QUEST&gt;：«Text for small purpose»</translation>
   </message>
   <message>
     <key>syslog_quest_dialog</key>
     <original xml:space="preserve">&lt;NAME QUEST&gt;：≪汎用アナウンス用テキスト≫</original>
+    <translation xml:space="preserve">&lt;NAME QUEST&gt;：«General-purpose announcement for text»</translation>
   </message>
   <message>
     <key>syslog_quest_partyquest_set</key>
     <original xml:space="preserve">&lt;NAME QUEST&gt;がパーティークエストに設定されました</original>
+    <translation xml:space="preserve">&lt;NAME QUEST&gt;is set to party quest</translation>
   </message>
   <message>
     <key>syslog_quest_partyquest_unset</key>
     <original xml:space="preserve">&lt;NAME QUEST&gt;がパーティークエストから外されました</original>
+    <translation xml:space="preserve">&lt;NAME QUEST&gt;has been removed from the party quest</translation>
   </message>
   <message>
     <key>syslog_quest_ready_start</key>
     <original xml:space="preserve">&lt;NAME TARGET&gt;がイベント準備・パーティー招集を行いました</original>
+    <translation xml:space="preserve">&lt;NAME TARGET&gt;We have done the event preparation and party convened</translation>
   </message>
   <message>
     <key>syslog_quest_ready_ready</key>
     <original xml:space="preserve">&lt;NAME TARGET&gt;が進行準備完了になりました</original>
+    <translation xml:space="preserve">&lt;NAME TARGET&gt;progress Ready</translation>
   </message>
   <message>
     <key>syslog_quest_meinquest_enable</key>
     <original xml:space="preserve">&lt;NAME QUEST&gt;が受注可能になりました</original>
+    <translation xml:space="preserve">&lt;NAME QUEST&gt;There is New orders</translation>
   </message>
   <message>
     <key>syslog_quest_stopedquest_enable</key>
     <original xml:space="preserve">進行不能が解除されたクエストがあります</original>
+    <translation xml:space="preserve">Quest Stoped</translation>
   </message>
   <message>
     <key>syslog_quest_cancel</key>
@@ -363,42 +374,52 @@ Report to the Job Master.</translation>
   <message>
     <key>syslog_content_update</key>
     <original xml:space="preserve">&lt;NAME QUEST&gt;：≪小目的テキスト≫</original>
+    <translation xml:space="preserve"></translation>
   </message>
   <message>
     <key>syslog_content_enemy_engage</key>
     <original xml:space="preserve">&lt;EMNM n&gt;が乱入しました</original>
+    <translation xml:space="preserve"></translation>
   </message>
   <message>
     <key>syslog_content_convoy_hp_half</key>
     <original xml:space="preserve">&lt;NAME TARGET&gt;のHPが50％をきりました</original>
+    <translation xml:space="preserve"></translation>
   </message>
   <message>
     <key>syslog_content_convoy_hp_little</key>
     <original xml:space="preserve">&lt;NAME TARGET&gt;のHPが瀕死状態です</original>
+    <translation xml:space="preserve"></translation>
   </message>
   <message>
     <key>syslog_content_convoy_hp_zero</key>
     <original xml:space="preserve">&lt;NAME TARGET&gt;が倒れました</original>
+    <translation xml:space="preserve"></translation>
   </message>
   <message>
     <key>syslog_content_pawn_rescure_success</key>
     <original xml:space="preserve">&lt;NAME TARGET&gt;(共闘ポーン名)の援護に成功しました</original>
+    <translation xml:space="preserve"></translation>
   </message>
   <message>
     <key>syslog_content_pawn_add_reward</key>
     <original xml:space="preserve">セカンドポーンの恩恵により&lt;NAME QUEST&gt;に報酬が追加されました</original>
+    <translation xml:space="preserve"></translation>
   </message>
   <message>
     <key>syslog_content_pawn_get_pawn</key>
     <original xml:space="preserve">セカンドポーンが仲間に加わりました</original>
+    <translation xml:space="preserve"></translation>
   </message>
   <message>
     <key>syslog_content_boss_beat</key>
     <original xml:space="preserve">&lt;EMNM n&gt;を退けました</original>
+    <translation xml:space="preserve"></translation>
   </message>
   <message>
     <key>syslog_content_boss_defeat</key>
     <original xml:space="preserve">&lt;EMNM n&gt;を討伐しました</original>
+    <translation xml:space="preserve"></translation>
   </message>
   <message>
     <key>syslog_content_end_by_clear</key>
@@ -413,6 +434,7 @@ Report to the Job Master.</translation>
   <message>
     <key>syslog_content_end_by_friends_down</key>
     <original xml:space="preserve">&lt;NAME QUEST&gt;を&lt;NAME TARGET&gt;が倒れたため、終了します</original>
+    <translation xml:space="preserve"></translation>
   </message>
   <message>
     <key>syslog_content_end_by_timeup</key>
@@ -422,14 +444,17 @@ Report to the Job Master.</translation>
   <message>
     <key>syslog_content_anounce_prepare</key>
     <original xml:space="preserve">&lt;NAME QUEST&gt;が準備期間中です</original>
+    <translation xml:space="preserve"></translation>
   </message>
   <message>
     <key>syslog_content_anounce_hold</key>
     <original xml:space="preserve">&lt;NAME QUEST&gt;が開催期間中です</original>
+    <translation xml:space="preserve"></translation>
   </message>
   <message>
     <key>syslog_content_anounce_calcurate</key>
     <original xml:space="preserve">&lt;NAME QUEST&gt;が集計期間中です</original>
+    <translation xml:space="preserve"></translation>
   </message>
   <message>
     <key>syslog_content_anounce_reward</key>
@@ -1056,14 +1081,17 @@ Gained &lt;VAL AP&gt; (+&lt;VAL&gt;).</translation>
   <message>
     <key>syslog_quest_party_progress_myself</key>
     <original xml:space="preserve">＜&lt;VAL&gt;＞を進行しようとしました（あと&lt;VAL&gt;人で進行）</original>
+    <translation xml:space="preserve"></translation>
   </message>
   <message>
     <key>syslog_quest_party_progress</key>
     <original xml:space="preserve">＜&lt;VAL&gt;＞をパーティーメンバーが進行しようとしました（あと&lt;VAL&gt;人で進行）</original>
+    <translation xml:space="preserve"></translation>
   </message>
   <message>
     <key>syslog_quest_party_order_myself</key>
     <original xml:space="preserve">＜&lt;VAL&gt;＞を受注しようとしました（あと&lt;VAL&gt;人で受注）</original>
+    <translation xml:space="preserve"></translation>
   </message>
   <message>
     <key>syslog_quest_party_order</key>
