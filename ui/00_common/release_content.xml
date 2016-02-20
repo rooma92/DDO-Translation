@@ -32,10 +32,12 @@
   <message>
     <key>RELEASE_CONTENT_9</key>
     <original xml:space="preserve">リム転移</original>
+    <translation xml:space="preserve">Rim transition</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_10</key>
     <original xml:space="preserve">竜力の継承</original>
+    <translation xml:space="preserve">Inheritance of dragon force</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_11</key>
@@ -60,6 +62,7 @@
   <message>
     <key>RELEASE_CONTENT_16</key>
     <original xml:space="preserve">エリアマスターのワールドクエスト情報</original>
+    <translation xml:space="preserve">World Quest information of the area master</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_17</key>
@@ -109,10 +112,12 @@
   <message>
     <key>RELEASE_CONTENT_29</key>
     <original xml:space="preserve">戦徒の契り</original>
+    <translation xml:space="preserve">Pledge of cents</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_32</key>
     <original xml:space="preserve">冒険仲介係</original>
+    <translation xml:space="preserve">Adventure mediation engagement</translation>
   </message>
   <message>
     <key>RELEASE_CONTENT_33</key>
