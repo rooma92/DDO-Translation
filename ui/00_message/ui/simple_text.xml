@@ -217,14 +217,17 @@
   <message>
     <key>simple_text_2436</key>
     <original xml:space="preserve">どのジョブを持っていますか？</original>
+    <translation xml:space="preserve">What job do you have?</translation>
   </message>
   <message>
     <key>simple_text_2437</key>
     <original xml:space="preserve">他にどのジョブができますか？</original>
+    <translation xml:space="preserve">is there any other job?</translation>
   </message>
   <message>
     <key>simple_text_2438</key>
     <original xml:space="preserve">準備はできていますか？</original>
+    <translation xml:space="preserve">Are you ready?</translation>
   </message>
   <message>
     <key>simple_text_2439</key>
@@ -254,10 +257,12 @@
   <message>
     <key>simple_text_2445</key>
     <original xml:space="preserve">後でまたお話ししてください</original>
+    <translation xml:space="preserve">Please talk to me later</translation>
   </message>
   <message>
     <key>simple_text_2447</key>
     <original xml:space="preserve">今は個人行動を優先中です</original>
+    <translation xml:space="preserve">The individual behavior is in priority now</translation>
   </message>
   <message>
     <key>simple_text_2448</key>
@@ -352,6 +357,7 @@
   <message>
     <key>simple_text_2479</key>
     <original xml:space="preserve">約束があります</original>
+    <translation xml:space="preserve">promise</translation>
   </message>
   <message>
     <key>simple_text_2482</key>
@@ -366,6 +372,7 @@
   <message>
     <key>simple_text_2484</key>
     <original xml:space="preserve">用事があります</original>
+    <translation xml:space="preserve">There are errands</translation>
   </message>
   <message>
     <key>simple_text_2486</key>
@@ -395,10 +402,13 @@
   <message>
     <key>simple_text_2492</key>
     <original xml:space="preserve">覚えていません</original>
+    <translation xml:space="preserve">Do not remember</translation>
+    
   </message>
   <message>
     <key>simple_text_2493</key>
     <original xml:space="preserve">知りません</original>
+    <translation xml:space="preserve">I do not know</translation>
   </message>
   <message>
     <key>simple_text_2495</key>
@@ -488,6 +498,7 @@
   <message>
     <key>simple_text_2522</key>
     <original xml:space="preserve">解散します</original>
+    <translation xml:space="preserve">Disbanded</translation>
   </message>
   <message>
     <key>simple_text_2523</key>
@@ -497,6 +508,7 @@
   <message>
     <key>simple_text_2527</key>
     <original xml:space="preserve">レベル差が少ないほうがいいですね</original>
+    <translation xml:space="preserve">better level difference is small</translation>
   </message>
   <message>
     <key>simple_text_2529</key>
@@ -531,6 +543,7 @@
   <message>
     <key>simple_text_2539</key>
     <original xml:space="preserve">参加を希望します</original>
+    <translation xml:space="preserve">I would like to participate</translation>
   </message>
   <message>
     <key>simple_text_2540</key>
@@ -545,42 +558,52 @@
   <message>
     <key>simple_text_9070</key>
     <original xml:space="preserve">ポーンを参加させます</original>
+    <translation xml:space="preserve">Join the pawn</translation>
   </message>
   <message>
     <key>simple_text_9071</key>
     <original xml:space="preserve">引きつける！</original>
+    <translation xml:space="preserve">Attract!</translation>
   </message>
   <message>
     <key>simple_text_9072</key>
     <original xml:space="preserve">助けてくれ！</original>
+    <translation xml:space="preserve">help me!</translation>
   </message>
   <message>
     <key>simple_text_9073</key>
     <original xml:space="preserve">回復を頼む</original>
+    <translation xml:space="preserve">Ask for a recovery</translation>
   </message>
   <message>
     <key>simple_text_9074</key>
     <original xml:space="preserve">回復する！</original>
+    <translation xml:space="preserve">Recover!</translation>
   </message>
   <message>
     <key>simple_text_9075</key>
     <original xml:space="preserve">跳ね上げる！</original>
+    <translation xml:space="preserve">Splashed!</translation>
   </message>
   <message>
     <key>simple_text_9076</key>
     <original xml:space="preserve">こっちだ</original>
+    <translation xml:space="preserve">Here</translation>
   </message>
   <message>
     <key>simple_text_9077</key>
     <original xml:space="preserve">いまだ、攻撃を！</original>
+    <translation xml:space="preserve">Hold, an attack!</translation>
   </message>
   <message>
     <key>simple_text_9078</key>
     <original xml:space="preserve">退くぞ！</original>
+    <translation xml:space="preserve">Retreat!</translation>
   </message>
   <message>
     <key>simple_text_9079</key>
     <original xml:space="preserve">引きつける！</original>
+    <translation xml:space="preserve">Attract!</translation>
   </message>
   <message>
     <key>simple_text_9080</key>
@@ -590,26 +613,32 @@
   <message>
     <key>simple_text_9081</key>
     <original xml:space="preserve">回復をお願い</original>
+    <translation xml:space="preserve">Give me a recovery</translation>
   </message>
   <message>
     <key>simple_text_9082</key>
     <original xml:space="preserve">回復します！</original>
+    <translation xml:space="preserve">To recover!</translation>
   </message>
   <message>
     <key>simple_text_9083</key>
     <original xml:space="preserve">跳ね上げます！</original>
+    <translation xml:space="preserve">I flipped!</translation>
   </message>
   <message>
     <key>simple_text_9084</key>
     <original xml:space="preserve">こっちです</original>
+    <translation xml:space="preserve">Here it is</translation>
   </message>
   <message>
     <key>simple_text_9085</key>
     <original xml:space="preserve">いまこそ、攻撃を！</original>
+    <translation xml:space="preserve">What now, an attack!</translation>
   </message>
   <message>
     <key>simple_text_9086</key>
     <original xml:space="preserve">退きましょう！</original>
+    <translation xml:space="preserve">Let's retreat!</translation>
   </message>
   <message>
     <key>simple_text_9087</key>
@@ -639,10 +668,12 @@
   <message>
     <key>simple_text_9092</key>
     <original xml:space="preserve">少し下がってください</original>
+    <translation xml:space="preserve">Please be a little down</translation>
   </message>
   <message>
     <key>simple_text_9093</key>
     <original xml:space="preserve">敵に注視されぬよう気をつけてください</original>
+    <translation xml:space="preserve">Please be careful so you are not been watched by the enemy</translation>
   </message>
   <message>
     <key>simple_text_9094</key>
@@ -662,6 +693,7 @@
   <message>
     <key>simple_text_9097</key>
     <original xml:space="preserve">支援行動をお願いします！</original>
+    <translation xml:space="preserve">Thank you for your support!</translation>
   </message>
   <message>
     <key>simple_text_9098</key>
@@ -706,6 +738,7 @@
   <message>
     <key>simple_text_9106</key>
     <original xml:space="preserve">しがみつきます</original>
+    <translation xml:space="preserve">Will hold on</translation>
   </message>
   <message>
     <key>simple_text_9107</key>
@@ -740,6 +773,7 @@
   <message>
     <key>simple_text_9113</key>
     <original xml:space="preserve">がんばりましょう！</original>
+    <translation xml:space="preserve">Let's do our best!</translation>
   </message>
   <message>
     <key>simple_text_9114</key>
@@ -749,214 +783,267 @@
   <message>
     <key>simple_text_9115</key>
     <original xml:space="preserve">やりましょう！</original>
+    <translation xml:space="preserve">Let's do it!</translation>
   </message>
   <message>
     <key>simple_text_9116</key>
     <original xml:space="preserve">いきましょう！</original>
+    <translation xml:space="preserve">let's go!</translation>
   </message>
   <message>
     <key>simple_text_9117</key>
     <original xml:space="preserve">楽しかった！</original>
+    <translation xml:space="preserve">That was fun!</translation>
   </message>
   <message>
     <key>simple_text_9118</key>
     <original xml:space="preserve">すごい！</original>
+    <translation xml:space="preserve">Amazing!</translation>
   </message>
   <message>
     <key>simple_text_9119</key>
     <original xml:space="preserve">すばらしい！</original>
+    <translation xml:space="preserve">Great!</translation>
   </message>
   <message>
     <key>simple_text_9120</key>
     <original xml:space="preserve">グッジョブ！</original>
+    <translation xml:space="preserve">Gujjobu!</translation>
   </message>
   <message>
     <key>simple_text_9121</key>
     <original xml:space="preserve">さすが！</original>
+    <translation xml:space="preserve">Indeed!</translation>
   </message>
   <message>
     <key>simple_text_9122</key>
     <original xml:space="preserve">ナイスです！</original>
+    <translation xml:space="preserve">It is nice!</translation>
   </message>
   <message>
     <key>simple_text_9123</key>
     <original xml:space="preserve">気にしないで！</original>
+    <translation xml:space="preserve">Do not worry!</translation>
   </message>
   <message>
     <key>simple_text_9124</key>
     <original xml:space="preserve">お気になさらず</original>
+    <translation xml:space="preserve">take care</translation>
   </message>
   <message>
     <key>simple_text_9125</key>
     <original xml:space="preserve">それではまた！</original>
+    <translation xml:space="preserve">See you!</translation>
   </message>
   <message>
     <key>simple_text_9126</key>
     <original xml:space="preserve">次こそは！</original>
+    <translation xml:space="preserve">what is it!</translation>
   </message>
   <message>
     <key>simple_text_9127</key>
     <original xml:space="preserve">ザコは無視しますか？</original>
+    <translation xml:space="preserve">Do you ignore the small fish?</translation>
   </message>
   <message>
     <key>simple_text_9128</key>
     <original xml:space="preserve">いいですね！</original>
+    <translation xml:space="preserve">Sounds good!</translation>
   </message>
   <message>
     <key>simple_text_9129</key>
     <original xml:space="preserve">了解！</original>
+    <translation xml:space="preserve">roger that!</translation>
   </message>
   <message>
     <key>simple_text_9130</key>
     <original xml:space="preserve">無理です！</original>
+    <translation xml:space="preserve">That's impossible!</translation>
   </message>
   <message>
     <key>simple_text_9131</key>
     <original xml:space="preserve">マーカーを目指しましょう</original>
+    <translation xml:space="preserve">Aim at the marker</translation>
   </message>
   <message>
     <key>simple_text_9132</key>
     <original xml:space="preserve">帰還しましょう</original>
+    <translation xml:space="preserve">Let's return</translation>
   </message>
   <message>
     <key>simple_text_9133</key>
     <original xml:space="preserve">拠点に行きましょう</original>
+    <translation xml:space="preserve">Let's go to the base</translation>
   </message>
   <message>
     <key>simple_text_9134</key>
     <original xml:space="preserve">リム転移します</original>
+    <translation xml:space="preserve">To rim transition</translation>
   </message>
   <message>
     <key>simple_text_9135</key>
     <original xml:space="preserve">装備を変えます</original>
+    <translation xml:space="preserve">Change the equipment</translation>
   </message>
   <message>
     <key>simple_text_9136</key>
     <original xml:space="preserve">ジョブを変えます</original>
+    <translation xml:space="preserve">Change the job</translation>
   </message>
   <message>
     <key>simple_text_9137</key>
     <original xml:space="preserve">アイテムを補充します</original>
+    <translation xml:space="preserve">replenish the items</translation>
   </message>
   <message>
     <key>simple_text_9138</key>
     <original xml:space="preserve">アイテムを取ります！</original>
+    <translation xml:space="preserve">take the item!</translation>
   </message>
   <message>
     <key>simple_text_9139</key>
     <original xml:space="preserve">アイテムがいっぱいになりました</original>
+    <translation xml:space="preserve">The item is now full</translation>
   </message>
   <message>
     <key>simple_text_9140</key>
     <original xml:space="preserve">もう一度行きませんか？</original>
+    <translation xml:space="preserve">Why do not you go again?</translation>
   </message>
   <message>
     <key>simple_text_9141</key>
     <original xml:space="preserve">離脱します！</original>
+    <translation xml:space="preserve">withdrawal!</translation>
   </message>
   <message>
     <key>simple_text_9142</key>
     <original xml:space="preserve">リーダーを変更します</original>
+    <translation xml:space="preserve">Change the leader</translation>
   </message>
   <message>
     <key>simple_text_9143</key>
     <original xml:space="preserve">どんまい！</original>
+    <translation xml:space="preserve">do not mind!</translation>
   </message>
   <message>
     <key>simple_text_9144</key>
     <original xml:space="preserve">気にするな！</original>
+    <translation xml:space="preserve">Never mind!</translation>
   </message>
   <message>
     <key>simple_text_9145</key>
     <original xml:space="preserve">気にしないで！</original>
+    <translation xml:space="preserve">Do not worry!</translation>
   </message>
   <message>
     <key>simple_text_9146</key>
     <original xml:space="preserve">大丈夫です！</original>
+    <translation xml:space="preserve">It's okay!</translation>
   </message>
   <message>
     <key>simple_text_9147</key>
     <original xml:space="preserve">申し訳ない！</original>
+    <translation xml:space="preserve">I'm sorry!</translation>
   </message>
   <message>
     <key>simple_text_9148</key>
     <original xml:space="preserve">すみません！</original>
+    <translation xml:space="preserve">Excuse me!</translation>
   </message>
   <message>
     <key>simple_text_9149</key>
     <original xml:space="preserve">俺が！</original>
+    <translation xml:space="preserve">I can!</translation>
   </message>
   <message>
     <key>simple_text_9150</key>
     <original xml:space="preserve">私が！</original>
+    <translation xml:space="preserve">I!</translation>
   </message>
   <message>
     <key>simple_text_9151</key>
     <original xml:space="preserve">状態異常に気を付けましょう！</original>
+    <translation xml:space="preserve">Get unusually careful!</translation>
   </message>
   <message>
     <key>simple_text_9152</key>
     <original xml:space="preserve">エンチャントを頼む！</original>
+    <translation xml:space="preserve">Ask an enchantment!</translation>
   </message>
   <message>
     <key>simple_text_9153</key>
     <original xml:space="preserve">エンチャントをお願い！</original>
+    <translation xml:space="preserve">Give me an enchantment!</translation>
   </message>
   <message>
     <key>simple_text_9154</key>
     <original xml:space="preserve">ザコは無視しよう！</original>
+    <translation xml:space="preserve">Small fish is trying to ignore!</translation>
   </message>
   <message>
     <key>simple_text_9155</key>
     <original xml:space="preserve">ザコは無視しましょう！</original>
+    <translation xml:space="preserve">Let's ignore Small fish!</translation>
   </message>
   <message>
     <key>simple_text_9156</key>
     <original xml:space="preserve">この敵は倒そう！</original>
+    <translation xml:space="preserve">This enemy will be defeated!</translation>
   </message>
   <message>
     <key>simple_text_9157</key>
     <original xml:space="preserve">この敵は倒しましょう！</original>
+    <translation xml:space="preserve">This enemy is Got defeated!</translation>
   </message>
   <message>
     <key>simple_text_9158</key>
     <original xml:space="preserve">先に行ってください</original>
+    <translation xml:space="preserve">Please go ahead</translation>
   </message>
   <message>
     <key>simple_text_9189</key>
     <original xml:space="preserve">急ごう！</original>
+    <translation xml:space="preserve">Let 's hurry!</translation>
   </message>
   <message>
     <key>simple_text_9190</key>
     <original xml:space="preserve">急ぎましょう！</original>
+    <translation xml:space="preserve">Let's hurry!</translation>
   </message>
   <message>
     <key>simple_text_9191</key>
     <original xml:space="preserve">焦らずに</original>
+    <translation xml:space="preserve">Without hurry</translation>
   </message>
   <message>
     <key>simple_text_9192</key>
     <original xml:space="preserve">助かりました！</original>
+    <translation xml:space="preserve">It was Helpful!</translation>
   </message>
   <message>
     <key>simple_text_9193</key>
     <original xml:space="preserve">う、動けない！</original>
+    <translation xml:space="preserve">Cormorants, can not move!</translation>
   </message>
   <message>
     <key>simple_text_9194</key>
     <original xml:space="preserve">少し準備します</original>
+    <translation xml:space="preserve"> a little preparation</translation>
   </message>
   <message>
     <key>simple_text_9195</key>
     <original xml:space="preserve">手を出すな</original>
+    <translation xml:space="preserve">Do not dabble</translation>
   </message>
   <message>
     <key>simple_text_9196</key>
     <original xml:space="preserve">手を出さないで</original>
+    <translation xml:space="preserve">Do not stay out</translation>
   </message>
   <message>
     <key>simple_text_9197</key>
     <original xml:space="preserve">敵を引きつける</original>
+    <translation xml:space="preserve">Attract the enemy</translation>
   </message>
   <message>
     <key>simple_text_9198</key>
@@ -966,74 +1053,92 @@
   <message>
     <key>simple_text_9199</key>
     <original xml:space="preserve">俺に任せろ！</original>
+    <translation xml:space="preserve">I leave it to!</translation>
   </message>
   <message>
     <key>simple_text_9200</key>
     <original xml:space="preserve">私に任せて！</original>
+    <translation xml:space="preserve">Leave it to me!</translation>
   </message>
   <message>
     <key>simple_text_9201</key>
     <original xml:space="preserve">俺の背中に隠れて！</original>
+    <translation xml:space="preserve">Hiding in my back!</translation>
   </message>
   <message>
     <key>simple_text_9202</key>
     <original xml:space="preserve">私の背中に隠れて！</original>
+    <translation xml:space="preserve">Hiding on my back!</translation>
   </message>
   <message>
     <key>simple_text_9203</key>
     <original xml:space="preserve">凍らせる！</original>
+    <translation xml:space="preserve">Freeze!</translation>
   </message>
   <message>
     <key>simple_text_9204</key>
     <original xml:space="preserve">凍らせます！</original>
+    <translation xml:space="preserve">You frozen!</translation>
   </message>
   <message>
     <key>simple_text_9205</key>
     <original xml:space="preserve">スローにする！</original>
+    <translation xml:space="preserve">To throw!</translation>
   </message>
   <message>
     <key>simple_text_9206</key>
     <original xml:space="preserve">スローにします！</original>
+    <translation xml:space="preserve">To the throw!</translation>
   </message>
   <message>
     <key>simple_text_9207</key>
     <original xml:space="preserve">眠らせる！</original>
+    <translation xml:space="preserve">Get someone to sleep!</translation>
   </message>
   <message>
     <key>simple_text_9208</key>
     <original xml:space="preserve">眠らせます！</original>
+    <translation xml:space="preserve">You slept!</translation>
   </message>
   <message>
     <key>simple_text_9209</key>
     <original xml:space="preserve">状態異常を狙う！</original>
+    <translation xml:space="preserve">Aim to state abnormal!</translation>
   </message>
   <message>
     <key>simple_text_9210</key>
     <original xml:space="preserve">状態異常を狙います！</original>
+    <translation xml:space="preserve">It aims to state abnormal!</translation>
   </message>
   <message>
     <key>simple_text_9211</key>
     <original xml:space="preserve">状態異常にする！</original>
+    <translation xml:space="preserve">To state abnormal!</translation>
   </message>
   <message>
     <key>simple_text_9212</key>
     <original xml:space="preserve">状態異常にします！</original>
+    <translation xml:space="preserve">To the state abnormal!</translation>
   </message>
   <message>
     <key>simple_text_9213</key>
     <original xml:space="preserve">弱点を攻撃してくれ！</original>
+    <translation xml:space="preserve">attack the weakness!</translation>
   </message>
   <message>
     <key>simple_text_9214</key>
     <original xml:space="preserve">弱点を攻撃して！</original>
+    <translation xml:space="preserve">Attacking the weakness!</translation>
   </message>
   <message>
     <key>simple_text_9215</key>
     <original xml:space="preserve">別れて戦おう！</original>
+    <translation xml:space="preserve">Goodbye to fight!</translation>
   </message>
   <message>
     <key>simple_text_9216</key>
     <original xml:space="preserve">別れて戦いましょう！</original>
+    <translation xml:space="preserve">Let's fight farewell!</translation>
   </message>
   <message>
     <key>simple_text_9217</key>
@@ -1043,65 +1148,81 @@
   <message>
     <key>simple_text_9218</key>
     <original xml:space="preserve">散らばってください！</original>
+    <translation xml:space="preserve">Please scattered!</translation>
   </message>
   <message>
     <key>simple_text_9219</key>
     <original xml:space="preserve">弱点を出そう！</original>
+    <translation xml:space="preserve">Serve a weakness!</translation>
   </message>
   <message>
     <key>simple_text_9220</key>
     <original xml:space="preserve">弱点を狙おう！</original>
+    <translation xml:space="preserve">Let Nerao a weakness!</translation>
   </message>
   <message>
     <key>simple_text_9221</key>
     <original xml:space="preserve">弱点を攻撃しよう！</original>
+    <translation xml:space="preserve">Trying to attack the weakness!</translation>
   </message>
   <message>
     <key>simple_text_9222</key>
     <original xml:space="preserve">スタミナを減らそう！</original>
+    <translation xml:space="preserve">Attempt to reduce a stamina!</translation>
   </message>
   <message>
     <key>simple_text_9223</key>
     <original xml:space="preserve">一気に揺さぶろう！</original>
+    <translation xml:space="preserve">At once Yusaburo you!</translation>
   </message>
   <message>
     <key>simple_text_9224</key>
     <original xml:space="preserve">今助ける！</original>
+    <translation xml:space="preserve">Help now!</translation>
   </message>
   <message>
     <key>simple_text_9225</key>
     <original xml:space="preserve">今助けます！</original>
+    <translation xml:space="preserve">Help now!</translation>
   </message>
   <message>
     <key>simple_text_9226</key>
     <original xml:space="preserve">こっちだ、跳ね上げる！</original>
+    <translation xml:space="preserve">Here's, splashed!</translation>
   </message>
   <message>
     <key>simple_text_9227</key>
     <original xml:space="preserve">こっちです、跳ね上げます！</original>
+    <translation xml:space="preserve">It is here, I flipped up!</translation>
   </message>
   <message>
     <key>simple_text_9228</key>
     <original xml:space="preserve">おきろ！</original>
+    <translation xml:space="preserve">okiro!</translation>
   </message>
   <message>
     <key>simple_text_9229</key>
     <original xml:space="preserve">起きて！</original>
+    <translation xml:space="preserve">wake up!</translation>
   </message>
   <message>
     <key>simple_text_9230</key>
     <original xml:space="preserve">トドメだ！</original>
+    <translation xml:space="preserve">It todome!</translation>
   </message>
   <message>
     <key>simple_text_9231</key>
     <original xml:space="preserve">仕切り直そう！</original>
+    <translation xml:space="preserve">It will reattempt partition!</translation>
   </message>
   <message>
     <key>simple_text_9232</key>
     <original xml:space="preserve">仕切り直しましょう！</original>
+    <translation xml:space="preserve">Let's re-partition!</translation>
   </message>
   <message>
     <key>simple_text_9233</key>
     <original xml:space="preserve">こいつは危険です！</original>
+    <translation xml:space="preserve">This guy is dangerous!</translation>
   </message>
 </resource>
