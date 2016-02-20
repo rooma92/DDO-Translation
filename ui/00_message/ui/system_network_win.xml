@@ -3,6 +3,8 @@
     <key>net_signout_return_l</key>
     <original xml:space="preserve">認証サーバーとの接続が切れました
 ランチャーに戻ります</original>
+<translation xml:space="preserve">Connection with the authentication server has expired
+It will return to the launcher</translation>
   </message>
   <message>
     <key>net_non_connect_lan_return_l_common</key>
@@ -13,30 +15,45 @@
 このゲームをプレイするにはインターネットへの
 接続が必要となりますので接続状況をご確認ください
 ランチャーを再起動いたします</original>
-  </message>
+  <translation xml:space="preserve">You lost the connection to the Internet
+Or Internet connection has been cutoff,
+There is a possibility that is you are not connected
+
+To the Internet to play this game
+Please check the connection status because connection is required
+We will restart the launcher</translation>
+</message>
   <message>
     <key>net_network_cancel_return_l_common</key>
     <original xml:space="preserve">ネットワークの開始がキャンセルされました
 ランチャーに戻ります</original>
+    <translation xml:space="preserve">The start of the network has been canceled
+It will return to the launcher</translation>
   </message>
   <message>
     <key>net_network_ng_return_l_common</key>
     <original xml:space="preserve">ネットワークの開始に失敗しました
 ランチャーに戻ります</original>
+    <translation xml:space="preserve">failed to start network
+will return to the launcher</translation>
   </message>
   <message>
     <key>net_network_error_common</key>
     <original xml:space="preserve">通信エラーが発生しました</original>
+    <translation xml:space="preserve">a communication error occurred</translation>
   </message>
   <message>
     <key>net_network_error_return_t_common</key>
     <original xml:space="preserve">通信エラーが発生しました
 タイトル画面に戻ります</original>
+    <translation xml:space="preserve">A communication error occurred
+To return to the title screen</translation>
   </message>
   <message>
     <key>net_network_error_return_l_common</key>
     <original xml:space="preserve">通信エラーが発生しました
 ランチャーに戻ります</original>
+    <translation xml:space="preserve"></translation>
   </message>
   <message>
     <key>net_server_error_common</key>
@@ -54,41 +71,57 @@ Exiting to launcher</translation>
     <key>net_server_error_return_t_common</key>
     <original xml:space="preserve">サーバーから切断されました
 タイトル画面に戻ります</original>
+    <translation xml:space="preserve">you have been disconnected from the server
+return to the title screen</translation>
   </message>
   <message>
     <key>net_login_error_common</key>
     <original xml:space="preserve">ログインに失敗しました</original>
+    <translation xml:space="preserve">failed to login</translation>
   </message>
   <message>
     <key>net_login_error_return_l_common</key>
     <original xml:space="preserve">ログインに失敗しました
 ランチャーに戻ります</original>
+    <translation xml:space="preserve">failed to login
+will return to the launcher</translation>
   </message>
   <message>
     <key>net_server_error_back_t_common</key>
     <original xml:space="preserve">サーバーから切断されました
 タイトル画面に戻ります</original>
+    <translation xml:space="preserve">you have been disconnected from the server
+To return to the title screen</translation>
   </message>
   <message>
     <key>net_server_timeout_back_t_common</key>
     <original xml:space="preserve">サーバーとの接続がタイムアウトになりました
 タイトル画面に戻ります</original>
+    <translation xml:space="preserve">Connection to the server have timed out
+To return to the title screen</translation>
   </message>
   <message>
     <key>net_version_error_back_l_common</key>
     <original xml:space="preserve">更新データが見つかりました
 アップデートする必要がありますので
 ランチャー画面へ戻ります</original>
+    <translation xml:space="preserve">Update data found
+Since there is a need to update
+return to the launcher screen</translation>
   </message>
   <message>
     <key>net_autologout</key>
     <original xml:space="preserve">長時間、操作が行われなかったため
 サーバーとの接続が切断されました
 タイトル画面に戻ります</original>
+    <translation xml:space="preserve">timedout, since the operation is not performed
+Connection to the server has been lost
+To return to the title screen</translation>
   </message>
   <message>
     <key>net_signout_return_l_keep</key>
     <original xml:space="preserve">認証サーバーとの接続が切れました</original>
+    <translation xml:space="preserve">Connection with the authentication server has expired</translation>
   </message>
   <message>
     <key>net_non_connect_lan_return_l_common_keep</key>
@@ -98,23 +131,34 @@ Exiting to launcher</translation>
 
 このゲームをプレイするにはインターネットへの
 接続が必要となりますので接続状況をご確認ください</original>
+    <translation xml:space="preserve">You lost the connection to the Internet
+Or Internet connection has been cut,
+There is a possibility that you are not connected
+
+To the Internet to play this game
+Check the connection status because the connection is required</translation>
   </message>
   <message>
     <key>net_server_error_return_t_common_keep</key>
     <original xml:space="preserve">サーバーから切断されました</original>
+    <translation xml:space="preserve">you have been disconnected from the server</translation>
   </message>
   <message>
     <key>net_server_error_back_t_common_keep</key>
     <original xml:space="preserve">サーバーから切断されました</original>
+    <translation xml:space="preserve">you have been disconnected from the server</translation>
   </message>
   <message>
     <key>net_server_timeout_back_t_common_keep</key>
     <original xml:space="preserve">サーバーとの接続がタイムアウトになりました</original>
+    <translation xml:space="preserve">Connection to the server has timed out</translation>
   </message>
   <message>
     <key>net_autologout_keep</key>
     <original xml:space="preserve">長時間、操作が行われなかったため
 サーバーとの接続が切断されました</original>
+    <translation xml:space="preserve">timed out , since the operation is not performed
+Connection to the server has been lost</translation>
   </message>
   <message>
     <key>net_edit_keep</key>
@@ -126,5 +170,13 @@ Exiting to launcher</translation>
 
 ゲームを終了するにはエディット(または美容院)の
 画面でキャンセル操作をおこなってください</original>
+    <translation xml:space="preserve">Because you are not connected to the server
+you will not be able to proceed with any more games
+
+The current edit information in PC body
+We recommend that you save
+
+Edit to end the game (or beauty salon)
+Please perform the cancel operation on the screen</translation>
   </message>
 </resource>
